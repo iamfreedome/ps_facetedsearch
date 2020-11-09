@@ -1,7 +1,7 @@
 {
-    "name": "prestashop/ps_facetedsearch",
-    "description": "PrestaShop module ps_facetedsearch",
-    "homepage": "https://github.com/PrestaShop/ps_facetedsearch",
+    "name": "iamfreedome/ps_facetedsearch",
+    "description": "PrestaShop module ps_facetedsearch with some changes",
+    "homepage": "https://github.com/iamfreedome/ps_facetedsearch",
     "license": "AFL-3.0",
     "authors": [
         {
