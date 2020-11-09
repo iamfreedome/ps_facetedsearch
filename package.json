@@ -1,4 +1,5 @@
 {
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "name": "ps_facetedsearch",
   "version": "1.0.0",
   "description": "## About",
@@ -15,20 +16,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrestaShop/ps_facetedsearch.git"
+    "url": "git+https://github.com/iamfreedome/ps_facetedsearch.git"
   },
   "keywords": [],
   "author": "PrestaShop",
   "license": "AFL-3.0",
   "bugs": {
-    "url": "https://github.com/PrestaShop/ps_facetedsearch/issues"
+    "url": "https://github.com/iamfreedome/ps_facetedsearch/issues"
   },
   "babel": {
     "presets": [
       "@babel/preset-env"
     ]
   },
-  "homepage": "https://github.com/PrestaShop/ps_facetedsearch#readme",
+  "homepage": "https://github.com/iamfreedome/ps_facetedsearch#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
